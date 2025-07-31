@@ -1,0 +1,12 @@
+/home/sod/en_01/_system/selenium/geckodriver-0.35.0/target/release/deps/libanstyle-3755f50765f89790.rmeta: /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/lib.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/macros.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/color.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/effect.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/reset.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/style.rs
+
+/home/sod/en_01/_system/selenium/geckodriver-0.35.0/target/release/deps/libanstyle-3755f50765f89790.rlib: /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/lib.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/macros.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/color.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/effect.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/reset.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/style.rs
+
+/home/sod/en_01/_system/selenium/geckodriver-0.35.0/target/release/deps/anstyle-3755f50765f89790.d: /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/lib.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/macros.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/color.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/effect.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/reset.rs /home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/style.rs
+
+/home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/lib.rs:
+/home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/macros.rs:
+/home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/color.rs:
+/home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/effect.rs:
+/home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/reset.rs:
+/home/sod/.cargo/registry/src/index.crates.io-1cd66030c949c28d/anstyle-1.0.8/src/style.rs:
