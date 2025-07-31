@@ -45,8 +45,6 @@ The system automatically stops tightening when no pulse is detected, ensuring sa
 
 \- `motor\_control.py` – Motor control module for the tightening mechanism.
 
-\- `display` – LCD screen drivers.
-
 \- 'selenium' – Screen activation software.
 
 \- `README.md` – Project description.
