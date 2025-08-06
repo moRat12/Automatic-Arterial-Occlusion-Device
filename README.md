@@ -39,11 +39,11 @@ The system automatically stops tightening when no pulse is detected, ensuring sa
 
 \## Repository Structure
 
-\- `en\_01` – Main program controlling the system (sensor reading + motor logic).
+\- `en_01` – Main program controlling the system (sensor reading + motor logic).
 
-\- `pulse\_polar.py` – BLE communication with the Polar OH1 pulse sensor.
+\- `pulse_polar.py` – BLE communication with the Polar OH1 pulse sensor.
 
-\- `motor\_control.py` – Motor control module for the tightening mechanism.
+\- `motor_control.py` – Motor control module for the tightening mechanism.
 
 \- 'selenium' – Screen activation software.
 
